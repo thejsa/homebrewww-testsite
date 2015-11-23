@@ -1,2 +1,2 @@
-# homebrewww-testsite
-Test site hosted with paperplane.io
+# Test Site for Koopa Cruiser
+Test site for Koopa Cruiser hosted at koopacruiser.paperplane.io
